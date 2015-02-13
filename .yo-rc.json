@@ -1,0 +1,18 @@
+{
+  "generator-jhipster": {
+    "baseName": "trains",
+    "packageName": "com.lionel.trains",
+    "packageFolder": "com/lionel/trains",
+    "authenticationType": "token",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "gulp",
+    "javaVersion": "8"
+  }
+}
